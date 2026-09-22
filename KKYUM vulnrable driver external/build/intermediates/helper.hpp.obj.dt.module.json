@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\Luke.DESKTOP-1HP2F8S\\source\\repos\\KKYUM vulnrable driver external\\build\\intermediates\\helper.obj",
+            "outputs": [
+                "C:\\Users\\Luke.DESKTOP-1HP2F8S\\source\\repos\\KKYUM vulnrable driver external\\build\\intermediates\\helper.hpp.obj.dt.module.json",
+                "C:\\Users\\Luke.DESKTOP-1HP2F8S\\source\\repos\\KKYUM vulnrable driver external\\build\\intermediates\\helper.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

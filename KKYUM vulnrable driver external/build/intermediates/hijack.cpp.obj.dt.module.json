@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\Luke.DESKTOP-1HP2F8S\\source\\repos\\AmdTools64 Usermode cheat\\build\\intermediates\\hijack.obj",
+            "outputs": [
+                "C:\\Users\\Luke.DESKTOP-1HP2F8S\\source\\repos\\AmdTools64 Usermode cheat\\build\\intermediates\\hijack.cpp.obj.dt.module.json",
+                "C:\\Users\\Luke.DESKTOP-1HP2F8S\\source\\repos\\AmdTools64 Usermode cheat\\build\\intermediates\\hijack.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
