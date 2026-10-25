@@ -171,7 +171,7 @@ sc start KKYUM
 sc stop KKYUM
 ```
 
-> **Note:** The default aimbot key is right click, you can change this in the source code if you wish. Makcu aim has support for stock and Medius firmware.
+> **Note:** The default aimbot key is right click, you can change this in the source code if you wish. Makcu aim has support for stock and Medius firmware. The medius_capi.dll file must be in the executables directory or the cheat will refuse to launch.
 
 ---
 
